@@ -1,0 +1,14 @@
+# requirements.txt
+# Add your project dependencies below, one per line.
+# Example:
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.11.2
+scikit-learn>=1.0.2
+geopandas
+rasterio
+streamlit
+openpyxl
+sentinelhub-py
+google-cloud-storage

@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "./venv/bin/python",
+    "python.analysis.extraPaths": [
+        "/Applications/QGIS-LTR.app/Contents/Resources/python",
+        "/Applications/QGIS-LTR.app/Contents/Resources/python/plugins"
+    ],
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true
+}
